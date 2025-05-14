@@ -8,7 +8,7 @@
       "balance": {
         "RUB": 1000,
         "USD": 20,
-        "EUR": 20,
+        "EUR": 30.06413769983216,
         "NTC": 3000
       }
     },
@@ -21,7 +21,7 @@
       "balance": {
         "RUB": 20,
         "USD": 0,
-        "EUR": 0,
+        "EUR": 1,
         "NTC": 100
       }
     },
@@ -59,6 +59,18 @@
         "USD": 500,
         "EUR": 600,
         "NTC": 90000
+      }
+    },
+    {
+      "created_at": "2025-05-14T16:54:30.641Z",
+      "login": "maksim@demo.ru",
+      "password": "demo",
+      "id": 6,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
       }
     }
   ],
